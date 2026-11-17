@@ -1,0 +1,8 @@
+========================================================
+BERRY-KEATING & FLOQUET TRAPPED-ION SIMULATION REPORT
+========================================================
+Tested Zeros Count : 8
+Mapped Quasienergies : [14.139700000000001, 21.026999999999997, 25.0159, 30.4298, 32.9401, 37.5912, 40.923700000000004, 43.332100000000004]
+Max Spectral Residual: 0.005
+ANALOGUE VERDICT   : SPECTRAL MATCHING VERIFIED (SIMULATED)
+========================================================

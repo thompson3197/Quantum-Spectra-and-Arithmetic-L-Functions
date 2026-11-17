@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or manuscript, please cite it using these metadata."
+type: software
+title: "Quantum Spectra and Arithmetic L-Functions: Berry-Keating & Floquet Trapped-Ion Verification Suite"
+version: 1.0.0
+date-released: 2026-11-16
+authors:
+  - family-names: "Thompson"
+    given-names: "Travis Lee"
+    orcid: "https://orcid.org/0009-0001-7917-0306"
+keywords:
+  - "Riemann Zeta Function"
+  - "Berry-Keating Hamiltonian"
+  - "Floquet Engineering"
+  - "Trapped Ions"
+  - "Random Matrix Theory"
+  - "Deterministic Software"
+license: "MIT"
+repository-code: "https://github.com/thompson3197/Quantum-Spectra-and-Arithmetic-L-Functions"
