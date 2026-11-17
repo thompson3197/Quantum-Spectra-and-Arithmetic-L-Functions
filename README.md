@@ -2,22 +2,22 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 2.7](https://img.shields.io/badge/Python-2.7-green.svg)](https://www.python.org/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24296284.svg)](https://doi.org/10.5281/zenodo.24296284)
 
 ## Overview
-A deterministic, zero-dependency Python 2.7 computational research suite modeling **Floquet-engineered trapped-ion realizations of Berry–Keating dilation dynamics** whose quasienergy spectra mirror the non-trivial zeros of the Riemann zeta function $\zeta(\frac{1}{2} + i\gamma_n)$ and higher arithmetic $L$-functions.
+A deterministic, zero-dependency Python 2.7 computational research suite modeling **Floquet-engineered trapped-ion realizations of Berryâ€“Keating dilation dynamics** whose quasienergy spectra mirror the non-trivial zeros of the Riemann zeta function $\zeta(\frac{1}{2} + i\gamma_n)$ and higher arithmetic $L$-functions.
 
-This repository accompanies the manuscript *"Analogue Quantum Spectra and Arithmetic L-Functions: Floquet-Engineered Trapped-Ion Realizations of Berry–Keating Dynamics with Deterministic Verification"*.
+This repository accompanies the manuscript *"Analogue Quantum Spectra and Arithmetic L-Functions: Floquet-Engineered Trapped-Ion Realizations of Berryâ€“Keating Dynamics with Deterministic Verification"*.
 
 ## Repository Structure
-* `berry_keating_floquet_model.py` — Core Berry–Keating operator initialization and Floquet quasienergy spectral matcher.
-* `step1_level_spacing_stats.py` — Unfolded nearest-neighbor level-spacing analyzer verifying Gaussian Unitary Ensemble (GUE) level repulsion.
-* `step2_spectral_rigidity.py` — Long-range Dyson–Mehta $\Delta_3(L)$ spectral rigidity calculator.
-* `step3_trapped_ion_noise.py` — Experimental ion-trap thermal heating and laser phase decoherence simulator.
-* `quantum_spectra_floquet_riemann.tex` — Complete LaTeX research manuscript.
-* `CITATION.cff` — Standard Citation File Format metadata.
-* `.zenodo.json` — Archival metadata for automated Zenodo DOI minting.
-* `LICENSE` — MIT Open Source License.
+* `berry_keating_floquet_model.py` â€” Core Berryâ€“Keating operator initialization and Floquet quasienergy spectral matcher.
+* `step1_level_spacing_stats.py` â€” Unfolded nearest-neighbor level-spacing analyzer verifying Gaussian Unitary Ensemble (GUE) level repulsion.
+* `step2_spectral_rigidity.py` â€” Long-range Dysonâ€“Mehta $\Delta_3(L)$ spectral rigidity calculator.
+* `step3_trapped_ion_noise.py` â€” Experimental ion-trap thermal heating and laser phase decoherence simulator.
+* `quantum_spectra_floquet_riemann.tex` â€” Complete LaTeX research manuscript.
+* `CITATION.cff` â€” Standard Citation File Format metadata.
+* `.zenodo.json` â€” Archival metadata for automated Zenodo DOI minting.
+* `LICENSE` â€” MIT Open Source License.
 
 ## Deterministic Software Engineering Standards
 All Python modules adhere to strict safety-critical and deterministic design rules:
